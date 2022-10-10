@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "@modules/splash": "file:./modules/splash/",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
@@ -26,6 +27,7 @@
     "@screens/orders-in-progress": "file:./screens/orders-in-progress/",
     "@screens/product-details": "file:./screens/product-details/",
     "axios": "^0.21.1",
+    "prop-types": "15.8.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
     "react-native": "0.64.0",
@@ -37,6 +39,7 @@
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^3.2.0",
     "react-native-screens": "^2.18.1",
+    "react-native-splash-screen": "3.3.0",
     "react-native-vector-icons": "^8.1.0",
     "react-native-web": "^0.18.2",
     "react-redux": "^7.2.2",
