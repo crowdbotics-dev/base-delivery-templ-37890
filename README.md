@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-orders-in-progress](screens/orders-in-progress)
 - [screen-order-summary](screens/order-summary)
 - [screen-order-success](screens/order-success)
+- [screen-order-invoice](screens/order-invoice)
 
 # Getting started: Frontend
 
