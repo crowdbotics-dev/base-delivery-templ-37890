@@ -1237,6 +1237,9 @@
 "@screens/cart@file:./screens/cart":
   version "1.0.0"
 
+"@screens/meal-product-listing@file:./screens/meal-product-listing/":
+  version "1.0.0"
+
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
@@ -1255,7 +1258,7 @@
 "@screens/orders-in-progress@file:./screens/orders-in-progress":
   version "1.0.0"
 
-"@screens/product-details@file:./screens/product-details/":
+"@screens/product-details@file:./screens/product-details":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
