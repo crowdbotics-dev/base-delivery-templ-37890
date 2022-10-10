@@ -23,6 +23,7 @@
     "@screens/order-success": "file:./screens/order-success/",
     "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/orders-in-progress": "file:./screens/orders-in-progress/",
+    "@screens/product-details": "file:./screens/product-details/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
