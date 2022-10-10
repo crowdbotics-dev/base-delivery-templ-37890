@@ -19,6 +19,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/cart": "file:./screens/cart/",
+    "@screens/food-category": "file:./screens/food-category/",
     "@screens/meal-product-listing": "file:./screens/meal-product-listing/",
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-details": "file:./screens/order-details/",
