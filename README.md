@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-social-login](modules/social-login)
 - [screen-food-category](screens/food-category)
 - [react-native-onboarding](modules/onboarding)
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
