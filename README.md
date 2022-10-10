@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-success](screens/order-success)
 - [screen-order-invoice](screens/order-invoice)
 - [screen-order-checkout](screens/order-checkout)
+- [screen-store-cart](screens/cart)
 
 # Getting started: Frontend
 
