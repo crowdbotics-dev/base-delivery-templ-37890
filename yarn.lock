@@ -1237,7 +1237,10 @@
 "@screens/order-details@file:./screens/order-details":
   version "1.0.0"
 
-"@screens/orders-in-progress@file:./screens/orders-in-progress/":
+"@screens/order-summary@file:./screens/order-summary/":
+  version "1.0.0"
+
+"@screens/orders-in-progress@file:./screens/orders-in-progress":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
