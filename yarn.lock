@@ -1032,7 +1032,7 @@
     prop-types "^15.8.1"
     react-native-app-intro-slider "^4.0.4"
 
-"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
@@ -1048,6 +1048,9 @@
     uuid "^8.3.2"
 
 "@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
+"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview/":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
