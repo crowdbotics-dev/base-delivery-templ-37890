@@ -1234,10 +1234,13 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/order-checkout@file:./screens/order-checkout/":
+  version "1.0.0"
+
 "@screens/order-details@file:./screens/order-details":
   version "1.0.0"
 
-"@screens/order-invoice@file:./screens/order-invoice/":
+"@screens/order-invoice@file:./screens/order-invoice":
   version "1.0.0"
 
 "@screens/order-success@file:./screens/order-success":

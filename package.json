@@ -16,6 +16,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-details": "file:./screens/order-details/",
     "@screens/order-invoice": "file:./screens/order-invoice/",
     "@screens/order-success": "file:./screens/order-success/",
